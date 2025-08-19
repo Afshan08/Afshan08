@@ -17,8 +17,8 @@ I am really good at back end technologies and framework like django, flask, and 
 - [Email Agent](https://github.com/Afshan08/email-agent) – AI-powered inbox manager with chatbot interface  
 - [Pomodoro Focus App](https://github.com/Afshan08/pomodoro-app) – Simple Flask app to boost focus with Pomodoro method    
 
-![Afshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=afshan123&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afshan123&layout=compact&theme=radical)  
+![Afshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afshan08&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afshan08&layout=compact&theme=radical)  
 
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/afshanafridi/) | [Upwork](https://www.upwork.com/freelancers/~0134474a64b7cef312) | [Email](mailto:afshanafridi08@gmail.com)  
 
